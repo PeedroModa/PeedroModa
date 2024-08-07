@@ -2,8 +2,8 @@
 
 - 🚀 Apaixonado por tecnologia e área de dados
 - 🎓 Estudante de Ciência de Dados - UNIVESP
-- 🌱 Estudando Python/SQL/PowerBI
-- 😄 Pronomes: Ele/Dele
+
+
 
 
 <div align="center">
